@@ -1,0 +1,9 @@
+Enlace del repositorio en github: https://github.com/ReyserLyn/ProyectoPlagioEDA.git 
+
+El presente proyecto está realizado con JavaFx 17 junto con Scene Builder y NetBeans, para poder compilarlo
+sería mejor importarlo a NetBeans configurado con el JavaFx compatible y así poder realizar
+sus respectivas modificaciones y/o mejoras.
+
+El tiempo ni las circunstancias fueron de mucha ayuda, pero el grupo se siente agusto con el trabajo presentado.
+
+Informe hecho en Latex.
